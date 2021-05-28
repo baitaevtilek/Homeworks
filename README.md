@@ -65,4 +65,4 @@ def main():
 
 
 while True:
-    main()
+    main() 
